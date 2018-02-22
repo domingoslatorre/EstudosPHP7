@@ -3,7 +3,7 @@ Material para Estudo sobre PHP 7 desenvolvido para a disciplina Ferramentas de D
 Tecnologia em Análise e Desenvolvimento de Sistemas do IFSP campus São Paulo. 
 
 ## Módulo 1
-Fundamentos do PHP 7. 
+Introdução a Linguagem PHP 7
 
 ## Módulo 2
 Orientação a Objetos no PHP 7.
