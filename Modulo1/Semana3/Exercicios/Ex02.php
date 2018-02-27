@@ -1,12 +1,10 @@
 <?php
 /**
 * --------------------------------------------------------------------------
-* Módulo 1 / Semana 3 / Exercício 1
+* Módulo 1 / Semana 3 / Exercício 2
 * --------------------------------------------------------------------------
-* Crie uma função que recebe como parâmetro dois números inteiros e
-* retorne a seguinte mensagem:
-*  O Resultado da Soma é: ?
-*  O Resultado da Subtração é: ?
-* Teste a função.
+* Crie uma função que recebe como parâmetro um array de números e retorna 
+* a média aritmética. Teste a função com os array:
+* $notas = array(10.0, 10.0, 9.0, 3.5);
 * --------------------------------------------------------------------------
 */

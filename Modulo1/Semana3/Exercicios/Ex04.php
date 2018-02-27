@@ -1,12 +1,10 @@
 <?php
 /**
 * --------------------------------------------------------------------------
-* Módulo 1 / Semana 3 / Exercício 1
+* Módulo 1 / Semana 3 / Exercício 4
 * --------------------------------------------------------------------------
-* Crie uma função que recebe como parâmetro dois números inteiros e
-* retorne a seguinte mensagem:
-*  O Resultado da Soma é: ?
-*  O Resultado da Subtração é: ?
-* Teste a função.
+* Crie uma função que recebe como parâmetro um valor float que representa 
+* a temperatura em Farenheit, converte para Celsius e retorna o resultado.
+* Teste a função. 
 * --------------------------------------------------------------------------
 */
