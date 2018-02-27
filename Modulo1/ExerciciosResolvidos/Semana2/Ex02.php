@@ -13,7 +13,7 @@
 
 $titulo = "Página do Exercício 2";
 $paragrafo = "Esta é a página do Exercício 2";
-
+$id = 3;
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -21,7 +21,13 @@ $paragrafo = "Esta é a página do Exercício 2";
 	<title><?php echo $titulo; ?></title>
 </head>
 	<body>
+
+		<h1 id='titulo-principal' class="grande">Notícias</h1>
+
     	<h1><?php echo $titulo; ?></h1>
+		<?php echo "<h1 id='$id'>$titulo</h1>"; ?>
+
+
       <p><?php echo $paragrafo; ?></p>
 	</body>
 </html>

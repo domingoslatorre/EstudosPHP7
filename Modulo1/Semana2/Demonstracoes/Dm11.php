@@ -19,7 +19,7 @@ $v1 = TRUE;
 $v2 = FALSE;
 echo $v1 && $v2;
 echo $v1 || $v2;
-echo !$v1 //NOT
+echo !$v1; //NOT
 
 
 echo '</br>';
