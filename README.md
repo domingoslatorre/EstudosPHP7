@@ -1,4 +1,4 @@
-# EstudosPHP7
+# Estudos PHP 7
 Material para Estudo sobre PHP 7 desenvolvido para a disciplina Ferramentas de Desenvolvimento para Web 2 (B1FW2) do curso de 
 Tecnologia em Análise e Desenvolvimento de Sistemas do IFSP campus São Paulo. 
 
